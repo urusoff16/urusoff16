@@ -1,6 +1,6 @@
 <img src="assets/cover-night-workshop.png" alt="A digital workshop connecting browser extensions, desktop and mobile apps" width="100%">
 
-## Abdurakhman Urusov
+## ar.urusoff
 
 **English** · [Русский](README.ru.md)
 

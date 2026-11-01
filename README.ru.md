@@ -1,6 +1,6 @@
 <img src="assets/cover-night-workshop.png" alt="Цифровая мастерская: браузерные расширения, настольные и мобильные приложения" width="100%">
 
-## Abdurakhman Urusov
+## ar.urusoff
 
 [English](README.md) · **Русский**
 
