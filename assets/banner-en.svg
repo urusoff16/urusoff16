@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Abdurakhman Urusov</title>
+  <desc id="desc">Browser extensions and practical apps for Windows and Android.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111b2e"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+    <linearGradient id="accent" x2="1" y2="1"><stop stop-color="#9faeff"/><stop offset="1" stop-color="#62dfc1"/></linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <path d="M32 282H1168" stroke="#25334a"/>
+  <rect x="48" y="48" width="5" height="190" rx="2.5" fill="url(#accent)"/>
+  <g fill="none" stroke="url(#accent)">
+    <circle cx="1080" cy="141" r="114" opacity=".12"/>
+    <circle cx="1080" cy="141" r="83" opacity=".25"/>
+    <rect x="1037" y="98" width="86" height="86" rx="22" transform="rotate(20 1080 141)" opacity=".6"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="80" y="75" fill="#a8b6cd" font-size="16" letter-spacing="3">URUSOFF16 / BUILDING USEFUL SOFTWARE</text>
+    <text x="77" y="145" fill="#f0f4ff" font-size="53" font-weight="700">Abdurakhman Urusov</text>
+    <text x="80" y="190" fill="#b7c5da" font-size="23">Browser extensions · Windows &amp; Android</text>
+    <text x="80" y="238" fill="#83d9c3" font-size="17">Practical apps. Thoughtful details.</text>
+  </g>
+</svg>
