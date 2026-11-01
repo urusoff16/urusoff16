@@ -1,6 +1,10 @@
-<img src="assets/banner-ru.svg" alt="Abdurakhman Urusov — расширения для браузера и полезные приложения" width="100%">
+<img src="assets/cover-night-workshop.png" alt="Цифровая мастерская: браузерные расширения, настольные и мобильные приложения" width="100%">
+
+## Abdurakhman Urusov
 
 [English](README.md) · **Русский**
+
+**Связь:** [ar.urusoff@gmail.com](mailto:ar.urusoff@gmail.com)
 
 Создаю расширения для браузера и полезные инструменты для Windows и Android. Мои проекты решают повседневные задачи: делают работу в браузере удобнее, помогают выгружать данные и управлять подключениями.
 

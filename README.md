@@ -1,6 +1,10 @@
-<img src="assets/banner-en.svg" alt="Abdurakhman Urusov — browser extensions and practical apps" width="100%">
+<img src="assets/cover-night-workshop.png" alt="A digital workshop connecting browser extensions, desktop and mobile apps" width="100%">
+
+## Abdurakhman Urusov
 
 **English** · [Русский](README.ru.md)
+
+**Contact:** [ar.urusoff@gmail.com](mailto:ar.urusoff@gmail.com)
 
 I build browser extensions and practical tools for Windows and Android. My projects focus on everyday tasks: making browsing more comfortable, exporting useful data, and managing connections.
 
