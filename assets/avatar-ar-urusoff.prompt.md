@@ -1,0 +1,7 @@
+# ar.urusoff avatar
+
+Created with the built-in image generator using the supplied hooded-coder illustration as a concept reference. Exported to a 512 x 512 PNG for GitHub; the larger generated original is preserved locally.
+
+## Prompt
+
+Use case: logo-brand. Asset type: square GitHub profile avatar for developer ar.urusoff. Image 1 is a STYLE/CONCEPT REFERENCE ONLY, not an edit target: friendly hooded computer enthusiast behind a laptop. Create an ORIGINAL, much more refined mascot logo with different drawing and composition. Centered head-and-shoulders hooded coder behind a small laptop, deep charcoal hood, subtle teal rim light, simple warm friendly face partly in shadow, calm clever smile, a minimal dark eye mask inspired by the reference but not copied. Geometric clean shapes, confident thick outlines, polished vector-style illustration rendered as a high quality bitmap; restrained subtle shading, not photorealistic and not overloaded 3D. Charcoal navy background, elegant teal/cyan accent ring and mint light on the laptop edges, very minimal circuit accents. Laptop has a small abstract terminal chevron mark, not a brand logo. Premium badge composition, memorable silhouette and strong contrast readable at 48px. Square 1:1 image with all important features safely INSIDE a centered circular crop, generous outer margin, nothing cut off. No binary-code wallpaper, no scenery, no words, no letters, no username, no watermark. The result should feel distinctive, polished, friendly and suitable for an actual programmer's GitHub avatar.
